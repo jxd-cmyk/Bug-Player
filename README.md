@@ -3,6 +3,8 @@ A local audio player for Windows 11. Black background, white Courier New font, a
 
 <img width="1519" height="789" alt="Bug Player" src="https://github.com/user-attachments/assets/b62301e9-ffdf-4ccb-8777-092412c1577d" />
 
+ # Free download  [Microsoft Store](https://apps.microsoft.com/store/detail/9NNQP58BBRS4?cid=DevShareMCLPCS)
+
  # What It Can Do
 - Load songs, folders (including subfolders), and M3U, M3U8, PLS, and XSPF playlists.
 - Play songs sequentially, pause them, adjust the volume, and skip through supported files.
@@ -27,7 +29,7 @@ Details and instructions for deleting stored data: [Privacy Policy](https://jxd.
 <img width="432" height="652" alt="Bug_Player_3" src="https://github.com/user-attachments/assets/07f27fb7-c1b6-4e3d-a3ff-3eb7cb567ea5" />
 
  # Credits
-Software © [Jiri X. Dolezal](mailto:jxd@jxd.cz) Photo of the beetle: © [Jaroslav M. Soukup](mailto:jsoukup1@seznam.cz)
+ ## Software © [Jiri X. Dolezal](mailto:jxd@jxd.cz) Photo of the beetle: © [Jaroslav M. Soukup](mailto:jsoukup1@seznam.cz)
 
  # Contact
  ## [jxd.cz](https://jxd.cz)  [jxd@jxd.cz](mailto:jxd@jxd.cz)
